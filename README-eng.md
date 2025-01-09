@@ -44,22 +44,28 @@ RenameApp is a simple desktop application developed with **Electron** and **Node
 2. Install the software normally (Windows Defender may alert you that the file is not recognized, run it anyway).
 
 3. Click on the generated shortcut.
-![](https://i.ibb.co/9GBVGCj/11.png)
+
+<img src="https://i.ibb.co/9GBVGCj/11.png" alt="Atalho Gerado" width="400" />
 
 4. Write the new name you want the files to have.
-![](https://i.ibb.co/Jtj12hX/12.png)
+
+<img src="https://i.ibb.co/Jtj12hX/12.png" alt="Novo Nome" width="400" />
 
 5. Click on "Select folder" and select the folder where the files are.
-![](https://i.ibb.co/2MPLSWV/13.png)
+
+<img src="https://i.ibb.co/2MPLSWV/13.png" alt="Selecionar Pasta" width="400" />
 
 6. Click on "Rename Files". A message should appear informing you that the files were successfully renamed.
-![](https://i.ibb.co/0GD9MmB/14.png)
+
+<img src="https://i.ibb.co/0GD9MmB/14.png" alt="Arquivos Renomeados" width="400" />
 
 Files before.
-![](https://i.ibb.co/L9dFTkd/15.png)
+
+<img src="https://i.ibb.co/L9dFTkd/15.png" alt="Arquivos Antes" width="400" />
 
 Files after.
-![](https://i.ibb.co/K54bjwZ/16.png)
+
+<img src="https://i.ibb.co/K54bjwZ/16.png" alt="Arquivos Depois" width="400" />
 
 ---
 

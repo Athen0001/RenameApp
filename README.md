@@ -1,14 +1,17 @@
 # RenameApp
+
+[README in English](README-eng.md) 
+
 RenameApp é uma aplicação desktop simples desenvolvida com **Electron** e **Node.js**, que permite renomear todos os arquivos de uma determinada pasta de forma rápida e prática. É uma ferramenta perfeita para quem precisa organizar arquivos em massa com um novo padrão de nomeação.
 
 ---
 
 ## Sumário
-- [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Como Usar](#como-usar)
-- [Como Funciona o Código](#como-funciona-o-código)
-- [Contribuições](#contribuições)
+- [Funcionalidades](#-funcionalidades)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Como Usar](#-como-usar)
+- [Como Funciona o Código](#-como-funciona-o-código)
+- [Contribuições](#-contribuições)
 
 ---
 
@@ -40,22 +43,22 @@ RenameApp é uma aplicação desktop simples desenvolvida com **Electron** e **N
 2. Instale o software normalmente (o Windows Defender pode alertar devido ausência de reconhecimento do arquivo, execute mesmo assim).
 
 3. Clique no atalho gerado.
-!(imgs/11.png)
+![](https://ibb.co/CW4MWTF)
 
 4. Escreva o novo nome que deseja que os arquivos passem a possuir.
-!(imgs/12.png)
+![imgs/12.png](https://ibb.co/Sywj0Lq)
 
 5. Clique em "Select folder" e selecione a pasta onde estão os arquivos.
-!(imgs/13.png)
+![imgs/13.png](https://ibb.co/3FW8v46)
 
 6. Clique em "Rename Files". Uma mensagem deverá aparecer informando que os arquivos foram renomeados com sucesso.
-!(imgs/14.png)
+![](https://ibb.co/VqjCSJH)
 
 Arquivos antes.
-!(imgs/15.png)
+![](https://ibb.co/5sh0QMh)
 
 Arquivos depois.
-!(imgs/16.png)
+![](https://ibb.co/fX6qYvR)
 
 ---
 

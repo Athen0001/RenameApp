@@ -1,0 +1,24 @@
+{
+  "name": "renameapp",
+  "version": "1.0.0",
+  "description": "simple files renamer application",
+  "main": "main.js",
+  "build": {
+    "appId": "com.renameapp.desktop",
+    "win": {
+      "target": "nsis"
+    }
+  },
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Athen0001",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.2.1",
+    "electron-builder": "^25.1.8"
+  }
+}

@@ -11,6 +11,7 @@ RenameApp é uma aplicação desktop simples desenvolvida com **Electron** e **N
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como Usar](#-como-usar)
 - [Como Funciona o Código](#-como-funciona-o-código)
+- [Principais Arquivos](#-principais-arquivos)
 - [Contribuições](#-contribuições)
 
 ---
@@ -43,22 +44,22 @@ RenameApp é uma aplicação desktop simples desenvolvida com **Electron** e **N
 2. Instale o software normalmente (o Windows Defender pode alertar devido ausência de reconhecimento do arquivo, execute mesmo assim).
 
 3. Clique no atalho gerado.
-![](https://ibb.co/CW4MWTF)
+![](https://i.ibb.co/9GBVGCj/11.png)
 
 4. Escreva o novo nome que deseja que os arquivos passem a possuir.
-![imgs/12.png](https://ibb.co/Sywj0Lq)
+![](https://i.ibb.co/Jtj12hX/12.png)
 
 5. Clique em "Select folder" e selecione a pasta onde estão os arquivos.
-![imgs/13.png](https://ibb.co/3FW8v46)
+![](https://i.ibb.co/2MPLSWV/13.png)
 
 6. Clique em "Rename Files". Uma mensagem deverá aparecer informando que os arquivos foram renomeados com sucesso.
-![](https://ibb.co/VqjCSJH)
+![](https://i.ibb.co/0GD9MmB/14.png)
 
 Arquivos antes.
-![](https://ibb.co/5sh0QMh)
+![](https://i.ibb.co/L9dFTkd/15.png)
 
 Arquivos depois.
-![](https://ibb.co/fX6qYvR)
+![](https://i.ibb.co/K54bjwZ/16.png)
 
 ---
 

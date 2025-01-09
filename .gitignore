@@ -1,0 +1,12 @@
+# Ignorar dependências e pastas geradas
+node_modules/
+dist/
+*.log
+
+# Ignorar configurações locais
+*.env
+.DS_Store
+
+# Ignorar arquivos específicos do Electron Builder
+*.yml
+*.blockmap
